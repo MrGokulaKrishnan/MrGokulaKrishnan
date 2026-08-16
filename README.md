@@ -191,14 +191,6 @@ My goal is to continuously improve my engineering skills by building real-world 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrGokulaKrishnan&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrGokulaKrishnan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
----
-
 ## 🤝 Connect With Me
 
 <p>
