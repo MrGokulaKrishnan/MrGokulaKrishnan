@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gokulakrishnan K
+# Hi, I'm Gokulakrishnan K
 
 ### 💻 Java Backend Developer | Full Stack Developer | Computer Science Engineer
 
@@ -216,7 +216,6 @@ My goal is to continuously improve my engineering skills by building real-world 
 ### ⭐ Building. Learning. Improving.
 
 **Always learning, always building.**
-## Hi there 👋
 
 <!--
 **MrGokulaKrishnan/MrGokulaKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
